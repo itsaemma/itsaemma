@@ -1,7 +1,12 @@
-## Hi there 👋
+### Hola Gente 👋
+
+![Check Out My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmannuel&show_icons=true&theme=dark)
+[![Check Out My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmannuel)](https://github.com/anuraghazra/github-readme-stats)
+## Visitantes Totales :)
+[![visitors](https://profile-counter.glitch.me/Emmannuel/count.svg)](https://emmannuel.com)
 
 <!--
-**itsaemma/itsaemma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**itsaemma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
